@@ -9,8 +9,9 @@ Steps to test:
 3. Run using the main class (MyRetailServiceApplication.java) or run from a terminal.
 4. You can find the JUnit test cases on MyRetailServiceApplicationTests.java
 
-TODO: (due to shortage of time)
+TODO: (due to lack of time)
 1. Logging
 2. Exception logging
 3. More test cases
 4. Add updated time to Product collection
+5. JSON util
