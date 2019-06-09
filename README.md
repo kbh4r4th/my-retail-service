@@ -1,5 +1,3 @@
-Read Me for my-retail-service.
-
 Test Data:
 1. Please create a collection: product in a local MongoDB that runs on http://localhost:27017/test.
 
